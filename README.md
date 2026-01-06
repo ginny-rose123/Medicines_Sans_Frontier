@@ -2,7 +2,7 @@
 
 Through the LSE Data Analytics Career Accelerator, I completed a team project working with Medicines Sans Frontier (Doctors Without Borders) to analyse and visualise simulated staff survey data. Note: all products are not official MSF products and do not represent their views or real life data. 
 
-**🕹️ Background**
+**🥼 Background**
 
 MSF operates in more than 70 countries, providing urgent medical care to populations affected by conflict, epidemics, disasters, or exclusion from healthcare. To maximiseoperational impact, MSF Brussels redesigned its “End of Assignment” (EoA) survey to better
 capture the experiences of frontline staff. The redesigned survey aims to improve learning across projects, strengthen the quality of care delivered, and safeguard personnel operating in high-risk, high-pressure environments.
